@@ -14,57 +14,57 @@ export const PLANS: PLAN[] = [
     {
         id: "free",
         title: "Free",
-        desc: "Get started with essential tools for social media content creation",
+        desc: "Get started with essential AI call center features for small businesses",
         monthlyPrice: 0,
         yearlyPrice: 0,
         buttonText: "Get Started",
         features: [
-            "Basic AI content generation",
-            "4 social media integrations",
+            "Basic AI voice agent",
+            "50 calls per month",
             "Community support",
-            "1 project limit",
-            "Standard analytics",
-            "Basic image generation"
+            "1 phone number",
+            "Standard call analytics",
+            "Basic transcription"
         ],
         link: "https://stripe.com/free-plan-link"
     },
     {
         id: "pro",
         title: "Pro",
-        desc: "Unlock advance features for enhanced content and strategy",
-        monthlyPrice: 10,
-        yearlyPrice: 120,
+        desc: "Unlock advanced AI capabilities for growing call centers",
+        monthlyPrice: 49,
+        yearlyPrice: 490,
         badge: "Most Popular",
         buttonText: "Upgrade to Pro",
         features: [
-            "Advanced AI content generation",
-            "10 social media integrations",
+            "Advanced AI voice agents",
+            "1,000 calls per month",
             "Priority email support",
-            "10 project limit",
-            "Enhanced analytics & insights",
-            "Pro model image generation",
-            "Team collaboration tools",
-            "Custom branding options"
+            "5 phone numbers",
+            "Advanced analytics & insights",
+            "Real-time sentiment analysis",
+            "CRM integrations",
+            "Custom voice training"
         ],
         link: "https://stripe.com/pro-plan-link"
     },
     {
         id: "enterprise",
         title: "Enterprise",
-        desc: "Tailored solutions for large organizations and agencies",
-        monthlyPrice: 15,
-        yearlyPrice: 180,
+        desc: "Tailored solutions for large call centers and enterprises",
+        monthlyPrice: 199,
+        yearlyPrice: 1990,
         badge: "Contact Sales",
         buttonText: "Upgrade to Enterprise",
         features: [
-            "Unlimited AI content generation",
-            "All social media integrations",
+            "Unlimited AI voice agents",
+            "Unlimited calls",
             "Dedicated account manager",
-            "Unlimited projects",
+            "Unlimited phone numbers",
             "Custom analytics & reporting",
             "Enterprise-grade security",
-            "Free updates",
-            // "24/7 priority support"
+            "Multi-language support",
+            "24/7 priority support"
         ],
         link: "https://stripe.com/enterprise-plan-link"
     }

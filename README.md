@@ -1,30 +1,32 @@
-<img src="https://github.com/user-attachments/assets/a1d7ced5-e6fc-41fd-9256-9d73a5f33597" alt="Luro Logo" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/a1d7ced5-e6fc-41fd-9256-9d73a5f33597" alt="Voxper Logo" width="50" height="50">
 
 
-# 🔗 Luro - AI Powered Content Creation Platform(Landing Page)
+# 🤖 Voxper - AI Call Center Agent Platform
 
-<!-- <img src="https://github.com/user-attachments/assets/deab03fd-4234-44c3-a6ad-484c4a1a02a1" alt="Linkify Thubmnail"> -->
-<img src="https://github.com/user-attachments/assets/0ff7129e-2f5d-48ae-913d-d4fd1507e613" alt="Luro Thumbnail" style="border-radius: 12px;" width="1280">
+<img src="https://github.com/user-attachments/assets/0ff7129e-2f5d-48ae-913d-d4fd1507e613" alt="Voxper Thumbnail" style="border-radius: 12px;" width="1280">
 
 
 ## 🌟 Introduction
-Luro is an innovative social media marketing platform designed to help you streamline your social media management effortlessly. Built with Next.js, Tailwind CSS, Shadcn UI, Magic UI, Aceternity UI, Prisma, MongoDB, Clerk, React Hook Form, and TypeScript, Luro provides powerful analytics and user-friendly features to enhance your social media marketing experience.
+Voxper is an innovative AI-powered call center platform designed to revolutionize customer service with intelligent voice agents. Built with Next.js, Tailwind CSS, Shadcn UI, Magic UI, Aceternity UI, Prisma, MongoDB, Clerk, React Hook Form, and TypeScript, Voxper provides advanced AI capabilities and user-friendly features to enhance your call center operations.
 
 ## 🚀 Features
 
-- Real-time performance tracking across platforms
-- Engagement rate calculations and trends
-- Audience growth and demographic insights
-- Custom report generation
-- ROI tracking and analysis
+- AI-powered voice agents with natural conversation flow
+- Real-time call analytics and performance tracking
+- Intelligent call routing and queue management
+- Customer sentiment analysis and insights
+- Multi-language support for global operations
+- Custom voice training and personality configuration
+- Integration with CRM and helpdesk systems
+- Automated call transcription and summarization
 
 ## 🔗 Live Preview
 
-Check out the live demo of Luro here: [Live Preview](http://luro-ai.vercel.app)
+Check out the live demo of Voxper here: [Live Preview](http://voxper-ai.vercel.app)
 
 ## 🎥 Watch Demo on YouTube
 
-Check out the tutorial to see how this social media marketing platform was built: [Watch the Tutorial](https://youtu.be/q8mOwYrpAHA?si=XpGy9VIKkaWJmfPL) 💻 
+Check out the tutorial to see how this AI call center platform was built: [Watch the Tutorial](https://youtu.be/q8mOwYrpAHA?si=XpGy9VIKkaWJmfPL) 💻 
 
 ## 💻 Tech Stack
 
@@ -40,11 +42,11 @@ Check out the tutorial to see how this social media marketing platform was built
 * Framer Motion
 
 ## 🛠️ Installation
-To run Luro locally, follow these steps:
+To run Voxper locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Shreyas-29/luro-ai.git
+    git clone https://github.com/your-username/voxper-ai.git
     ```
 2. Install dependencies:
     ```bash
@@ -53,8 +55,8 @@ To run Luro locally, follow these steps:
 3. Set up environment variables in a `.env` file:
     ```
     # app
-    NEXT_PUBLIC_APP_NAME=
-    NEXT_PUBLIC_APP_DOMAIN=
+    NEXT_PUBLIC_APP_NAME=Voxper
+    NEXT_PUBLIC_APP_DOMAIN=voxper-ai.vercel.app
 
     # database
     DATABASE_URL=
@@ -74,15 +76,15 @@ To run Luro locally, follow these steps:
     ```
 
 ## ☕ Buy Me a Coffee
-If you enjoy using Luro, consider supporting my work!  
-[Buy Me a Coffee ☕](https://buymeacoffee.com/shreyas29)
+If you enjoy using Voxper, consider supporting the development!  
+[Buy Me a Coffee ☕](https://buymeacoffee.com/voxper)
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 💬 Contact
-If you have any questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/Shreyas-29/luro-ai/issues).
+If you have any questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/your-username/voxper-ai/issues).
 
 ---
 
-Built with ❤️ by [Shreyas](https://shreyas-sihasane.vercel.app/)
+Built with ❤️ for the future of AI-powered customer service

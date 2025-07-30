@@ -5,32 +5,32 @@ import React from "react";
 export const PERKS = [
     {
         icon: ZapIcon,
-        title: "Fast and Efficient",
-        description: "Experience quick and seamless content creation with our optimized AI tools."
+        title: "Fast and Intelligent",
+        description: "Experience quick and intelligent call handling with our optimized AI voice agents."
     },
     {
         icon: ChartSplineIcon,
-        title: "Insightful Analytics",
-        description: "Gain valuable insights and analytics to enhance your social media strategy."
+        title: "Advanced Call Analytics",
+        description: "Gain valuable insights and analytics to enhance your call center performance and customer satisfaction."
     },
     {
         icon: LifeBuoyIcon,
-        title: "24/7 Support",
-        description: "Our team is available around the clock to assist with any issues or questions."
+        title: "24/7 AI Support",
+        description: "Our AI agents are available around the clock to handle customer calls and provide support."
     },
     {
         icon: PaletteIcon,
-        title: "Customizable Solutions",
-        description: "Tailor the tools and features to fit your unique social media needs."
+        title: "Customizable Voice Agents",
+        description: "Tailor the AI voice personality and responses to fit your unique brand and customer service needs."
     },
     {
         icon: ShieldCheckIcon,
-        title: "Secure and Reliable",
-        description: "Trust our platform to keep your data safe and ensure consistent performance."
+        title: "Secure and Compliant",
+        description: "Trust our platform to keep customer data safe and ensure compliance with industry standards."
     },
     {
         icon: WaypointsIcon,
-        title: "Seamless Integration",
-        description: "Easily integrate with your existing social media platforms and tools."
+        title: "CRM Integration",
+        description: "Easily integrate with your existing CRM, helpdesk, and business communication tools."
     },
 ];

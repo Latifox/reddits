@@ -17,8 +17,8 @@ interface MetadataProps {
 }
 
 export const generateMetadata = ({
-    title = `${process.env.NEXT_PUBLIC_APP_NAME} - Smart Social Media Marketing Platform`,
-    description = "Streamline your social media management with AI-powered analytics, scheduling, and content optimization. Get real-time insights, automate posts, and boost engagement across all platforms",
+    title = `${process.env.NEXT_PUBLIC_APP_NAME} - AI Call Center Agent Platform`,
+    description = "Transform your customer service with AI-powered voice agents. Get intelligent call handling, real-time analytics, sentiment analysis, and seamless CRM integration for your call center operations.",
     image = "/thumbnail.png",
     icons = [
         {
@@ -36,22 +36,26 @@ export const generateMetadata = ({
     ],
     noIndex = false,
     keywords = [
-        "AI content creation",
-        "content automation",
-        "AI writing assistant",
-        "content generation",
-        "artificial intelligence",
-        "content marketing"
+        "AI call center",
+        "voice agents",
+        "customer service automation",
+        "call center software",
+        "AI customer support",
+        "intelligent call handling",
+        "call analytics",
+        "voice AI",
+        "call transcription",
+        "sentiment analysis"
     ],
     author = process.env.NEXT_PUBLIC_AUTHOR_NAME,
-    twitterHandle = "@yourtwitterhandle",
+    twitterHandle = "@voxper_ai",
     type = "website",
     locale = "en_US",
     alternates = {},
     publishedTime,
     modifiedTime
 }: MetadataProps = {}): Metadata => {
-    const metadataBase = new URL(process.env.NEXT_PUBLIC_APP_URL || "https://luro-ai.vercel.app");
+    const metadataBase = new URL(process.env.NEXT_PUBLIC_APP_URL || "https://voxper-ai.vercel.app");
     const imageUrl = image ? new URL(image, metadataBase).toString() : null;
 
     return {
